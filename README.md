@@ -1,8 +1,10 @@
-# Getgraph
+# GetGraph
 
 GetGraph is a React Native application allows users to create, customise, and save charts.
 
 ## Demo
+
+[Link to Video Demo](https://www.youtube.com/watch?v=2LVDhkc9Zno)
 
 ## Installation
 
