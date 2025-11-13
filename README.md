@@ -4,7 +4,7 @@ GetGraph is a React Native application allows users to create, customise, and sa
 
 ## Demo
 
-[Link to Video Demo](https://www.youtube.com/watch?v=2LVDhkc9Zno)
+https://github.com/user-attachments/assets/8cfdfd8a-4fe9-4818-8747-1edf93765a63
 
 ## Installation
 
